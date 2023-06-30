@@ -1,1 +1,1 @@
-This folder contains the model files (.h5) of Emotion and Sign Language detection. I the user wants to test out his/her own model file, feel free to add yours!!
+This folder contains the model files (.h5) of Emotion and Sign Language detection. If the user wants to test out his/her own model file with out flask application, feel free to add yours!!
