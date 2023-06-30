@@ -4,7 +4,8 @@ This folder contains the files required to run our flask application for emotion
 
 ## File Structure
 
-<pre>├── <font color="#26A269"><b>app_final.py</b></font>
+<pre><font color="#12488B"><b>.</b></font>
+├── <font color="#26A269"><b>app_final.py</b></font>
 ├── <font color="#12488B"><b>models</b></font>
 │   ├── <font color="#26A269"><b>emotion_det.h5</b></font>
 │   ├── <font color="#26A269"><b>signLang_det.h5</b></font>
