@@ -1,6 +1,7 @@
 # Externship-Project
 This is **Team 579's** GitHub repository for the Smart Bridge externship program. Our Flask website effortlessly translates sign language gestures, detects and interprets emotions, fostering inclusive and seamless communication. 
 
+Link of the Demo Video of the Project: [here]{https://drive.google.com/file/d/1SWnA4MCoIUNfXowp1oGFH0GmcmziZWQQ/view?usp=sharing}
 ## Team Members
 
 * **Name: Gaurav Navada**
